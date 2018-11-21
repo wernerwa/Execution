@@ -1,3 +1,9 @@
+1.3 - Wednesday 21 November 2018
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Handle Throwable (Exception and PHP 7 Error).
+- Drop PHP 5 support. Before PHP 7, Exception did not implement the Throwable interface.
+
 1.2 - Saturday 27 September 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
